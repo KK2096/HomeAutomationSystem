@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+    android:id="@+id/navigation_devices"
+    android:icon="@drawable/icons8_desk_lamp_30px"
+    android:title="Devices">
+    </item>
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/icons8_dashboard_layout_24px"
+        android:title="Dashboard">
+    </item>
+
+    <item
+        android:id="@+id/navigation_profiles"
+        android:icon="@drawable/icons8_user_male_30px"
+        android:title="Profiles">
+    </item>
+
+
+
+</menu>

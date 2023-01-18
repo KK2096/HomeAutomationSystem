@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">AUTOMATIONAPK</string>
+
+    <string name="title_device">Devices</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_profiles">Profiles</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_das_fragment">Hello dash fragment</string>
+    <string name="hello_prof_fragment">Hello prof fragment</string>
+    <string name="add_prof_btn">ADD</string>
+    <string name="port_hint">5000</string>
+    <string name="port_no_texttview">Port No</string>
+    <string name="hint_ser_add_192_100_0_0">192.100.0.0</string>
+    <string name="textView_server_ip">Server IP</string>
+    <string name="hint_www_demo_com">www.demo.com</string>
+    <string name="textView_profile_name">Profile Name</string>
+    <string name="textview_add_profile">ADD PROFILE</string>
+    <string name="textview_profile">Profile</string>
+    <string name="textView_appliances">Appliances</string>
+    <string name="textview_add_appliances">Add Appliances</string>
+    <string name="textview_appliance_name">Appliance Name</string>
+    <string name="texview_fan_bulb">Fan , Bulb</string>
+    <string name="text_appliance_place">Appliance Place</string>
+    <string name="textview_hall_bedroom">Hall , Bedroom</string>
+    <string name="tex_btn_add_appl">ADD</string>
+    <string name="textview_no_of_connected_devices">No Of Connected Devices:  </string>
+
+
+    <string-array name="country_array">
+        <item>Denmark</item>
+        <item>Faroe Islands</item>
+        <item>Finland</item>
+        <item>Iceland</item>
+        <item>Norway</item>
+        <item>Svalbard and Jan Mayen</item>
+        <item>Sweden</item>
+    </string-array>
+
+</resources>
